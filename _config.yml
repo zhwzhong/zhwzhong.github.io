@@ -24,7 +24,7 @@ author:
   name             : "Zhong Zhiwei"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "City University of Hong Kong (CityU)"
-  location         : "HK"
+  location         : "Asia/Hong_Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OepYczoAAAAJ&hl"
@@ -137,7 +137,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone:  HK # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:  Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
