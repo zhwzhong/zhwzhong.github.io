@@ -7,12 +7,12 @@
 
 # Site Settings
 title                    : "Zhong Zhiwei (仲志伟)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Zhiwei Zhong is currently a postdoctoral researcher at City University of Hong Kong (CityU) under the supervision of Professor Shiqi Wang.. "
 repository               : "https://zhwzhong.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  https://scholar.google.com/citations?user=OepYczoAAAAJ&hl
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=OepYczoAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=OepYczoAAAAJ&hl"
   email            : "zhizhong@cityu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
