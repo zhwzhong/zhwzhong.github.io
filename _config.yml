@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhong Zhiwei"
-description              : "Zhiwei Zhong (仲志伟) is currently a postdoctoral researcher at City University of Hong Kong (CityU) under the supervision of Professor Shiqi Wang."
-repository               : "https://zhwzhong.github.io/"
+title                    : "Zhiwei Zhong (仲志伟)"
+description              : "City University of Hong Kong (CityU)"
+repository               : "zhwzhong/zhwzhong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhong Zhiwei"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "City University of Hong Kong (CityU)"
+  bio              : "Postdoctoral researcher"
   location         : "Asia/Hong_Kong"
   employer         :
   pubmed           : 
@@ -57,7 +57,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : 18845151350
+  wechat           : zhwzhong01
+  wechat_qr        : "images/wechat-qr.png"
 
 
 # Reading Files

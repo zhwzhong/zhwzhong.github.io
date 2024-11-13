@@ -115,6 +115,9 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
+      {% if author.wechat %}
+        <li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> 微信: {{ author.wechat }}</li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
@@ -210,6 +213,10 @@
       {% if author.impactstory %}
         <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i></a>
       {% endif %}
+      {% if author.wechat_qr %}
+        <li><img src="{{ site.baseurl }}/{{ author.wechat_qr }}" alt="WeChat QR Code" style="width:50px;height:50px;"></li>
+      {% endif %}
+
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}

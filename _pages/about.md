@@ -17,41 +17,68 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhiwei Zhong is currently a postdoctoral researcher at City University of Hong Kong under the supervision of Professor Shiqi Wang. His primary research areas are computer vision and image processing, with a focus on image restoration, guided image super-resolution, and deep learning. Zhiwei received his Ph.D. from the School of Computer Science at Harbin Institute of Technology, where he was supervised by Professor Xianming Liu and Professor Debin Zhao. 
+Zhiwei Zhong received his Ph.D. from the Faculty of Computing，Harbin Institute of Technology (HIT), where he was supervised by Professor [Xianming Liu](https://homepage.hit.edu.cn/xmliu?lang=en) and Professor [Debin Zhao](https://homepage.hit.edu.cn/zhaodebin). He is currently a postdoctoral researcher at City University of Hong Kong (CityU) under the supervision of Professor [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/). His primary research areas are computer vision and image processing, with a focus on image restoration, guided image super-resolution, and deep learning.
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.04*: &nbsp;🎉🎉 One paper titled "Guided Depth Map Super-Resolution: A Survey" has been accepted by ACM CSUR (*Top journal, IF=23.8*).
+- *2024.06*: &nbsp;🎉🎉 We achieved the first place at IEEE CVPR 2024 PBVS [Thermal Image Super-resolution Challenge](https://codalab.lisn.upsaclay.fr/competitions/9666#results).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2022</div><img src='images/tip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[High-Resolution Depth Maps Imaging via Attention-Based Hierarchical Multi-Modal Fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9642435)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhiwei Zhong**, Xianming Liu, Junjun Jiang, Debin Zhao, Zhiwen Chen, Xiangyang Ji
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Github**](https://github.com/zhwzhong/AHMF)
+- Propose a novel attention-based hierarchical multi-modal fusion (AHMF) network for guided depth map supe-resolution. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2023</div><img src='images/tnnls.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Attentional Guided Image Filtering](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10089494)
+
+**Zhiwei Zhong**, Xianming Liu, Junjun Jiang, Debin Zhao, Xiangyang Ji
+
+[**Github**](https://github.com/zhwzhong/DAGF)
+- Propose a learning-based multi-scale image filtering framework. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CSUR 2023</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Guided Depth Map Super-Resolution: A Survey](https://dl.acm.org/doi/10.1145/3584860)
+
+**Zhiwei Zhong**, Xianming Liu, Junjun Jiang, Debin Zhao, Xiangyang Ji
+
+[**Github**](https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey)
+- A comprehensive survey and a benchmark for guided depth map super-resolution. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.12* **Winner** of ACM ICMR 2021 Guided Depth Map Super-resolution [Challenge](https://icmr21-realdsr-challenge.github.io/). 
+- *2023.06* **Winner** of IEEE CVPR 2023 PBVS Thermal Image Super-resolution Challenge, [Track 1, SSIM](https://codalab.lisn.upsaclay.fr/competitions/9666#results).
+- *2023.06* **Winner** of IEEE CVPR 2023 PBVS Thermal Image Super-resolution Challenge, [Track 2](https://codalab.lisn.upsaclay.fr/competitions/9666#results).
+- *2024.06* **Winner** of IEEE CVPR 2024 PBVS Thermal Image Super-resolution Challenge, [Track 1](https://codalab.lisn.upsaclay.fr/competitions/17013). 
+- *2024.06* **Winner** of IEEE CVPR 2024 PBVS Thermal Image Super-resolution Challenge, [Track 2](https://codalab.lisn.upsaclay.fr/competitions/9666#results). 
+- **National Scholarship, Heilongjiang Provincial Outstanding Student, Heilongjiang Provincial Outstanding Ph.D. Graduate, HIT Outstanding Ph.D. Graduate, Tencent Scholarship, HIT Outstanding Ph.D. Thesis Nomination ($10\%$)**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12 -  (now)*, Postdoc Research, Department of Computer Science, City University of Hong Kong (CityU), HK, China. 
+- *2017.09 - 2023.12*, Ph. D. , School of Computer Science and Technology, Harbin Institute of Technology (HIT), Harbin, China.
+- *2013.09 - 2017.06*, Bachelor, School of Computer Science and Technology, Heilongjiang University, Harbin, China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.10*, Guided Image Super-resolution: From Traditional Methods to Deep Learning (Northeastern University, Shenyang, China). 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2018.09 - 2023.12*, [Peng Cheng Laboratory](https://www.pcl.ac.cn/index.html), Shenzhen, China.
