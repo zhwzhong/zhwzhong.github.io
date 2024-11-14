@@ -72,7 +72,11 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing，Harbin Institute
 - *2024.06* **Winner** of IEEE CVPR 2024 PBVS Thermal Image Super-resolution Challenge, [Track 2](https://codalab.lisn.upsaclay.fr/competitions/9666#results). 
 - **National Scholarship, Heilongjiang Provincial Outstanding Student, Heilongjiang Provincial Outstanding Ph.D. Graduate, HIT Outstanding Ph.D. Graduate, Tencent Scholarship, HIT Outstanding Ph.D. Thesis Nomination ($10\%$)**
 
-# 📖 Educations
+# 💼 Work Experience
+
+- *2023.12 -  (now)*, Postdoc Research, Department of Computer Science, City University of Hong Kong (CityU), HK, China.
+
+# 📖 Educations 
 - *2017.09 - 2023.09*, Ph. D. , School of Computer Science and Technology, Harbin Institute of Technology (HIT), Harbin, China.
 - *2013.09 - 2017.06*, Bachelor, School of Computer Science and Technology, Heilongjiang University, Harbin, China.
 
