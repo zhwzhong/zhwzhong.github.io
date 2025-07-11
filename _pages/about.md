@@ -82,7 +82,7 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing，Harbin Institute
 - *2023.06* **Winner** of IEEE CVPR 2023 PBVS Thermal Image Super-resolution Challenge, [Track 2](https://codalab.lisn.upsaclay.fr/competitions/9666#results).
 - *2024.06* **Winner** of IEEE CVPR 2024 PBVS Thermal Image Super-resolution Challenge, [Track 1](https://codalab.lisn.upsaclay.fr/competitions/17013). 
 - *2024.06* **Winner** of IEEE CVPR 2024 PBVS Thermal Image Super-resolution Challenge, [Track 2](https://codalab.lisn.upsaclay.fr/competitions/9666#results). 
-- *2024.06* **Winner** of IEEE CVPR 2025 PBVS Thermal Image Super-resolution Challenge, [Track 2](https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Rivadeneira_Thermal_Image_Super-Resolution_Challenge_Results_-_PBVS_2025_CVPRW_2025_paper.pdf).
+- *2025.06* **Winner** of IEEE CVPR 2025 PBVS Thermal Image Super-resolution Challenge, [Track 2](https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Rivadeneira_Thermal_Image_Super-Resolution_Challenge_Results_-_PBVS_2025_CVPRW_2025_paper.pdf).
 - **National Scholarship, Heilongjiang Provincial Outstanding Student, Heilongjiang Provincial Outstanding Ph.D. Graduate, HIT Outstanding Ph.D. Graduate, Tencent Scholarship, HIT Outstanding Ph.D. Thesis Nomination ($10\%$)**
 
 # 💼 Work Experience
