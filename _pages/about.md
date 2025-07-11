@@ -22,8 +22,8 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing，Harbin Institute
 
 
 # 🔥 News
-- *2023.04*: &nbsp;🎉🎉 One paper titled "Guided Depth Map Super-Resolution: A Survey" has been accepted by ACM CSUR (*Top journal, IF=23.8*).
-- *2024.06*: &nbsp;🎉🎉 We achieved the first place at IEEE CVPR 2024 PBVS [Thermal Image Super-resolution Challenge](https://codalab.lisn.upsaclay.fr/competitions/9666#results).
+- *2025.06*: &nbsp;🎉🎉 One paper titled "Guided Depth Map Super-Resolution: A Survey" has been accepted by ACM CSUR (*Top journal, IF=18.2*).
+- *2025.06*: &nbsp;🎉🎉 We achieved the first place at IEEE CVPR 2025 PBVS [Thermal Image Super-resolution Challenge](https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Rivadeneira_Thermal_Image_Super-Resolution_Challenge_Results_-_PBVS_2025_CVPRW_2025_paper.pdf).
 
 # 📝 Publications 
 
@@ -64,12 +64,25 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing，Harbin Institute
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual-Level Cross-Modality Neural Architecture Search for Guided Image Super-Resolution](https://ieeexplore.ieee.org/document/11029618)
+
+**Zhiwei Zhong**, Xianming Liu, Junjun Jiang, Debin Zhao, Shiqi Wang
+
+[**Github**](https://github.com/zhwzhong/DCNAS)
+- The first Neural Architecture Method for guided depth map super-resolution. 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.12* **Winner** of ACM ICMR 2021 Guided Depth Map Super-resolution [Challenge](https://icmr21-realdsr-challenge.github.io/). 
 - *2023.06* **Winner** of IEEE CVPR 2023 PBVS Thermal Image Super-resolution Challenge, [Track 1, SSIM](https://codalab.lisn.upsaclay.fr/competitions/9666#results).
 - *2023.06* **Winner** of IEEE CVPR 2023 PBVS Thermal Image Super-resolution Challenge, [Track 2](https://codalab.lisn.upsaclay.fr/competitions/9666#results).
 - *2024.06* **Winner** of IEEE CVPR 2024 PBVS Thermal Image Super-resolution Challenge, [Track 1](https://codalab.lisn.upsaclay.fr/competitions/17013). 
 - *2024.06* **Winner** of IEEE CVPR 2024 PBVS Thermal Image Super-resolution Challenge, [Track 2](https://codalab.lisn.upsaclay.fr/competitions/9666#results). 
+- *2024.06* **Winner** of IEEE CVPR 2025 PBVS Thermal Image Super-resolution Challenge, [Track 2](https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Rivadeneira_Thermal_Image_Super-Resolution_Challenge_Results_-_PBVS_2025_CVPRW_2025_paper.pdf).
 - **National Scholarship, Heilongjiang Provincial Outstanding Student, Heilongjiang Provincial Outstanding Ph.D. Graduate, HIT Outstanding Ph.D. Graduate, Tencent Scholarship, HIT Outstanding Ph.D. Thesis Nomination ($10\%$)**
 
 # 💼 Work Experience
