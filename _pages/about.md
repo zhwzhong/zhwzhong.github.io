@@ -22,7 +22,7 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing，Harbin Institute
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 One paper titled "Guided Depth Map Super-Resolution: A Survey" has been accepted by ACM CSUR (*Top journal, IF=18.2*).
+- *2025.06*: &nbsp;🎉🎉 One paper titled "Dual-Level Cross-Modality Neural Architecture Search for Guided Image Super-Resolution" has been accepted by IEEE TPAMI (*Top journal, IF=18.2*).
 - *2025.06*: &nbsp;🎉🎉 We achieved the first place at IEEE CVPR 2025 PBVS [Thermal Image Super-resolution Challenge](https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Rivadeneira_Thermal_Image_Super-Resolution_Challenge_Results_-_PBVS_2025_CVPRW_2025_paper.pdf).
 
 # 📝 Publications 
@@ -64,7 +64,7 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing，Harbin Institute
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Level Cross-Modality Neural Architecture Search for Guided Image Super-Resolution](https://ieeexplore.ieee.org/document/11029618)
