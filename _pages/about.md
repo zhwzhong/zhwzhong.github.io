@@ -64,7 +64,7 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing，Harbin Institute
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/dcnas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Level Cross-Modality Neural Architecture Search for Guided Image Super-Resolution](https://ieeexplore.ieee.org/document/11029618)
