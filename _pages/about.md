@@ -25,6 +25,18 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing, Harbin Institute 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/eccv2026-deblurring.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Event-driven Motion Deblurring via Trajectory-based Kernel Reconstruction](files/event-driven-motion-deblurring-eccv2026.pdf)
+
+**Zhiwei Zhong**, Peilin Chen, Wei Dong, Bo Li, Anmin Liu, Shiqi Wang
+
+[**PDF**](files/event-driven-motion-deblurring-eccv2026.pdf)
+- Propose a physically grounded event-driven framework that reconstructs trajectory-based blur kernels for non-uniform motion deblurring.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CVPR 2026</div><img src='images/lapnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
