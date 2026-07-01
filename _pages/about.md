@@ -28,6 +28,7 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing, Harbin Institute 
   <a href="#publications">Selected Publications</a>
   <a href="#competitions">Competitions</a>
   <a href="#honors">Honors</a>
+  <a href="#services">Services</a>
 </div>
 </section>
 
@@ -221,6 +222,13 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing, Harbin Institute 
   <li><span>2023.06</span> <strong>Winner</strong>, IEEE CVPR 2023 PBVS Thermal Image Super-Resolution Challenge, <a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Track 1 and Track 2</a>.</li>
   <li><span>2021.12</span> <strong>Winner</strong>, ACM ICMR 2021 Guided Depth Map Super-Resolution <a href="https://icmr21-realdsr-challenge.github.io/">Challenge</a>.</li>
   <li><span>Selected</span> National Scholarship, Heilongjiang Provincial Outstanding Student, Heilongjiang Provincial Outstanding Ph.D. Graduate, HIT Outstanding Ph.D. Graduate, Tencent Scholarship, HIT Outstanding Ph.D. Thesis Nomination ($10\%$).</li>
+</ul>
+
+<span class='anchor' id='services'></span>
+
+# Professional Services
+<ul class="service-list">
+  <li><strong>Reviewer</strong> for IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TETCI, ISPRS Journal of Photogrammetry and Remote Sensing, Pattern Recognition, Knowledge-Based Systems, CVPR, ICCV, ECCV, NeurIPS, ACM MM, and AAAI.</li>
 </ul>
 
 <span class='anchor' id='experience'></span>

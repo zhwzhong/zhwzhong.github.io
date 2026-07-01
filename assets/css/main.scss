@@ -107,7 +107,8 @@
 }
 
 .news-list,
-.award-list {
+.award-list,
+.service-list {
     margin-left: 0;
     padding-left: 0;
     list-style: none;
@@ -127,6 +128,12 @@
         color: #475467;
         font-size: .86em;
         font-weight: 700;
+    }
+}
+
+.service-list {
+    li {
+        padding-left: 0;
     }
 }
 
@@ -291,7 +298,8 @@ h1:before, .anchor:before {
 
 @include breakpoint(max-width $small) {
     .news-list,
-    .award-list {
+    .award-list,
+    .service-list {
         li {
             padding-left: 0;
         }
