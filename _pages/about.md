@@ -22,7 +22,7 @@ redirect_from:
 
 # Zhiwei Zhong
 
-Zhiwei Zhong received his Ph.D. from the Faculty of Computing, Harbin Institute of Technology (HIT), supervised by Professor [Xianming Liu](https://homepage.hit.edu.cn/xmliu?lang=en) and Professor [Debin Zhao](https://homepage.hit.edu.cn/zhaodebin). He is currently a postdoctoral researcher at City University of Hong Kong (CityU) under the supervision of Professor [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/). His research focuses on computer vision and image processing, especially image restoration, guided image super-resolution, depth map super-resolution, and deep learning.
+Zhiwei Zhong received his Ph.D. from the Faculty of Computing, Harbin Institute of Technology (HIT), supervised by Professor [Xianming Liu](https://homepage.hit.edu.cn/xmliu?lang=en) and Professor [Debin Zhao](https://homepage.hit.edu.cn/zhaodebin). He is currently a postdoctoral researcher at City University of Hong Kong (CityU) under the supervision of Professor [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/). His research focuses on computer vision and image processing, especially image restoration, guided image super-resolution, depth map super-resolution, and deep learning. He welcomes research collaborations and academic discussions; please feel free to contact him at [zhwzhong.cs@gmail.com](mailto:zhwzhong.cs@gmail.com).
 
 <div class="profile-links">
   <a href="#publications">Selected Publications</a>
