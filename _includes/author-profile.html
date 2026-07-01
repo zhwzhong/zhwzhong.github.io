@@ -118,6 +118,9 @@
       {% if author.wechat %}
         <li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> 微信: {{ author.wechat }}</li>
       {% endif %}
+      {% if author.wechat_qr %}
+        <li><img src="{{ site.baseurl }}/{{ author.wechat_qr }}" alt="WeChat QR Code" style="width:72px;height:72px;object-fit:cover;"></li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
