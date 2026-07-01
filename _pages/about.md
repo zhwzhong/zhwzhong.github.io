@@ -128,87 +128,86 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing, Harbin Institute 
 
 # Selected Competitions
 
-<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2026</div><a href="files/pbvs2026-track2-second-place-certificate.pdf"><img src='images/pbvs2026-track2-certificate.png' alt="PBVS 2026 Track 2 second place certificate" width="100%"></a></div></div>
+<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2026</div><img src='images/pbvs2026-track2-certificate.png' alt="PBVS 2026 Track 2 second place certificate" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IEEE CVPR 2026 PBVS Thermal Image Super-Resolution Challenge - Track 2 Certificate](files/pbvs2026-track2-second-place-certificate.pdf)
+IEEE CVPR 2026 PBVS Thermal Image Super-Resolution Challenge - Track 2
 
 <p class="pub-meta"><strong>2nd Place</strong>, Track 2, 7th Thermal Image Super-Resolution Challenge, IEEE/CVF PBVS Workshop</p>
 
-<p class="paper-links"><a href="files/pbvs2026-track2-second-place-certificate.pdf">Certificate</a></p>
-<p class="paper-summary">Certificate preview copied locally and linked directly to the PDF.</p>
+<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
-<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2025</div><a href="files/pbvs2025-track2-x8-winner-certificate.pdf"><img src='images/pbvs2025-track2-x8-certificate.png' alt="PBVS 2025 Track 2 x8 winner certificate" width="100%"></a></div></div>
+<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2025</div><img src='images/pbvs2025-track2-x8-certificate.png' alt="PBVS 2025 Track 2 x8 winner certificate" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IEEE CVPR 2025 PBVS Thermal Image Super-Resolution Challenge - Track 2 Certificate](files/pbvs2025-track2-x8-winner-certificate.pdf)
+IEEE CVPR 2025 PBVS Thermal Image Super-Resolution Challenge - Track 2
 
 <p class="pub-meta"><strong>1st Place</strong>, Track 2-x8 PSNR, 6th Thermal Image Super-Resolution Challenge, IEEE CVPR 2025 PBVS Workshop</p>
 
-<p class="paper-links"><a href="files/pbvs2025-track2-x8-winner-certificate.pdf">Certificate</a> <a href="https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Rivadeneira_Thermal_Image_Super-Resolution_Challenge_Results_-_PBVS_2025_CVPRW_2025_paper.pdf">Results</a></p>
-<p class="paper-summary">Certificate preview copied locally and linked directly to the PDF.</p>
+<p class="paper-links"><a href="https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Rivadeneira_Thermal_Image_Super-Resolution_Challenge_Results_-_PBVS_2025_CVPRW_2025_paper.pdf">Results</a></p>
+<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
-<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2024</div><a href="files/pbvs2024-track1-winner-certificate.pdf"><img src='images/pbvs2024-track1-certificate.png' alt="PBVS 2024 Track 1 winner certificate" width="100%"></a></div></div>
+<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2024</div><img src='images/pbvs2024-track1-certificate.png' alt="PBVS 2024 Track 1 winner certificate" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IEEE CVPR 2024 PBVS Thermal Image Super-Resolution Challenge - Track 1 Certificate](files/pbvs2024-track1-winner-certificate.pdf)
+IEEE CVPR 2024 PBVS Thermal Image Super-Resolution Challenge - Track 1
 
 <p class="pub-meta"><strong>1st Place</strong>, Track 1-PSNR/SSIM, 5th Thermal Image Super-Resolution Challenge, IEEE CVPR 2024 PBVS Workshop</p>
 
-<p class="paper-links"><a href="files/pbvs2024-track1-winner-certificate.pdf">Certificate</a> <a href="https://codalab.lisn.upsaclay.fr/competitions/17013">Results</a></p>
-<p class="paper-summary">Certificate preview copied locally and linked directly to the PDF.</p>
+<p class="paper-links"><a href="https://codalab.lisn.upsaclay.fr/competitions/17013">Results</a></p>
+<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
-<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2024</div><a href="files/pbvs2024-track2-winner-certificate.pdf"><img src='images/pbvs2024-track2-certificate.png' alt="PBVS 2024 Track 2 winner certificate" width="100%"></a></div></div>
+<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2024</div><img src='images/pbvs2024-track2-certificate.png' alt="PBVS 2024 Track 2 winner certificate" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IEEE CVPR 2024 PBVS Thermal Image Super-Resolution Challenge - Track 2 Certificate](files/pbvs2024-track2-winner-certificate.pdf)
+IEEE CVPR 2024 PBVS Thermal Image Super-Resolution Challenge - Track 2
 
 <p class="pub-meta"><strong>1st Place</strong>, Track 2-PSNR/SSIM, 5th Thermal Image Super-Resolution Challenge, IEEE CVPR 2024 PBVS Workshop</p>
 
-<p class="paper-links"><a href="files/pbvs2024-track2-winner-certificate.pdf">Certificate</a> <a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Results</a></p>
-<p class="paper-summary">Certificate preview copied locally and linked directly to the PDF.</p>
+<p class="paper-links"><a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Results</a></p>
+<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
-<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2023</div><a href="files/pbvs2023-track1-winner-certificate.pdf"><img src='images/pbvs2023-track1-certificate.png' alt="PBVS 2023 Track 1 winner certificate" width="100%"></a></div></div>
+<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2023</div><img src='images/pbvs2023-track1-certificate.png' alt="PBVS 2023 Track 1 winner certificate" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IEEE CVPR 2023 PBVS Thermal Image Super-Resolution Challenge - Track 1 Certificate](files/pbvs2023-track1-winner-certificate.pdf)
+IEEE CVPR 2023 PBVS Thermal Image Super-Resolution Challenge - Track 1
 
 <p class="pub-meta"><strong>1st Place</strong>, Track 1-Evaluation1-SSIM, 4th Thermal Image Super-Resolution Challenge, IEEE CVPR 2023 PBVS Workshop</p>
 
-<p class="paper-links"><a href="files/pbvs2023-track1-winner-certificate.pdf">Certificate</a> <a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Results</a></p>
-<p class="paper-summary">Certificate preview copied locally and linked directly to the PDF.</p>
+<p class="paper-links"><a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Results</a></p>
+<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
-<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2023</div><a href="files/pbvs2023-track2-winner-certificate.pdf"><img src='images/pbvs2023-track2-certificate.png' alt="PBVS 2023 Track 2 winner certificate" width="100%"></a></div></div>
+<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">CVPR PBVS 2023</div><img src='images/pbvs2023-track2-certificate.png' alt="PBVS 2023 Track 2 winner certificate" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IEEE CVPR 2023 PBVS Thermal Image Super-Resolution Challenge - Track 2 Certificate](files/pbvs2023-track2-winner-certificate.pdf)
+IEEE CVPR 2023 PBVS Thermal Image Super-Resolution Challenge - Track 2
 
 <p class="pub-meta"><strong>1st Place</strong>, Track 2-Evaluation-PSNR/SSIM, 4th Thermal Image Super-Resolution Challenge, IEEE CVPR 2023 PBVS Workshop</p>
 
-<p class="paper-links"><a href="files/pbvs2023-track2-winner-certificate.pdf">Certificate</a> <a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Results</a></p>
-<p class="paper-summary">Certificate preview copied locally and linked directly to the PDF.</p>
+<p class="paper-links"><a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Results</a></p>
+<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
-<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">ACM ICMR 2021</div><a href="files/acm-icmr2021-real-dsr-certificate.pdf"><img src='images/icmr2021-real-dsr-certificate.png' alt="ACM ICMR 2021 Real DSR Challenge winner certificate" width="100%"></a></div></div>
+<div class='paper-box competition-box'><div class='paper-box-image'><div><div class="badge badge-award">ACM ICMR 2021</div><img src='images/icmr2021-real-dsr-certificate.png' alt="ACM ICMR 2021 Real DSR Challenge winner certificate" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ACM ICMR 2021 Real DSR Challenge - Winner Certificate](files/acm-icmr2021-real-dsr-certificate.pdf)
+ACM ICMR 2021 Real DSR Challenge - Winner
 
 <p class="pub-meta"><strong>Winner</strong>, Stage 1 and Stage 2, ACM ICMR 2021 Real DSR Challenge</p>
 
-<p class="paper-links"><a href="files/acm-icmr2021-real-dsr-certificate.pdf">Certificate</a> <a href="https://icmr21-realdsr-challenge.github.io/">Challenge Page</a></p>
-<p class="paper-summary">Certificate copied locally from Chair.pdf; the PDF contains both Stage 1 and Stage 2 award pages.</p>
+<p class="paper-links"><a href="https://icmr21-realdsr-challenge.github.io/">Challenge Page</a></p>
+<p class="paper-summary">Certificate preview shown locally; the original certificate contains both Stage 1 and Stage 2 award pages.</p>
 </div>
 </div>
 
