@@ -135,7 +135,6 @@ IEEE CVPR 2026 PBVS Thermal Image Super-Resolution Challenge - Track 2
 
 <p class="pub-meta"><strong>2nd Place</strong>, Track 2, 7th Thermal Image Super-Resolution Challenge, IEEE/CVF PBVS Workshop</p>
 
-<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
@@ -147,7 +146,6 @@ IEEE CVPR 2025 PBVS Thermal Image Super-Resolution Challenge - Track 2
 <p class="pub-meta"><strong>1st Place</strong>, Track 2-x8 PSNR, 6th Thermal Image Super-Resolution Challenge, IEEE CVPR 2025 PBVS Workshop</p>
 
 <p class="paper-links"><a href="https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Rivadeneira_Thermal_Image_Super-Resolution_Challenge_Results_-_PBVS_2025_CVPRW_2025_paper.pdf">Results</a></p>
-<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
@@ -159,7 +157,6 @@ IEEE CVPR 2024 PBVS Thermal Image Super-Resolution Challenge - Track 1
 <p class="pub-meta"><strong>1st Place</strong>, Track 1-PSNR/SSIM, 5th Thermal Image Super-Resolution Challenge, IEEE CVPR 2024 PBVS Workshop</p>
 
 <p class="paper-links"><a href="https://codalab.lisn.upsaclay.fr/competitions/17013">Results</a></p>
-<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
@@ -171,7 +168,6 @@ IEEE CVPR 2024 PBVS Thermal Image Super-Resolution Challenge - Track 2
 <p class="pub-meta"><strong>1st Place</strong>, Track 2-PSNR/SSIM, 5th Thermal Image Super-Resolution Challenge, IEEE CVPR 2024 PBVS Workshop</p>
 
 <p class="paper-links"><a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Results</a></p>
-<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
@@ -183,7 +179,6 @@ IEEE CVPR 2023 PBVS Thermal Image Super-Resolution Challenge - Track 1
 <p class="pub-meta"><strong>1st Place</strong>, Track 1-Evaluation1-SSIM, 4th Thermal Image Super-Resolution Challenge, IEEE CVPR 2023 PBVS Workshop</p>
 
 <p class="paper-links"><a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Results</a></p>
-<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
@@ -195,7 +190,6 @@ IEEE CVPR 2023 PBVS Thermal Image Super-Resolution Challenge - Track 2
 <p class="pub-meta"><strong>1st Place</strong>, Track 2-Evaluation-PSNR/SSIM, 4th Thermal Image Super-Resolution Challenge, IEEE CVPR 2023 PBVS Workshop</p>
 
 <p class="paper-links"><a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Results</a></p>
-<p class="paper-summary">Certificate preview shown locally.</p>
 </div>
 </div>
 
@@ -207,7 +201,7 @@ ACM ICMR 2021 Real DSR Challenge - Winner
 <p class="pub-meta"><strong>Winner</strong>, Stage 1 and Stage 2, ACM ICMR 2021 Real DSR Challenge</p>
 
 <p class="paper-links"><a href="https://icmr21-realdsr-challenge.github.io/">Challenge Page</a></p>
-<p class="paper-summary">Certificate preview shown locally; the original certificate contains both Stage 1 and Stage 2 award pages.</p>
+<p class="paper-summary">The original certificate contains both Stage 1 and Stage 2 award pages.</p>
 </div>
 </div>
 
