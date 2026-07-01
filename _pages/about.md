@@ -215,12 +215,12 @@ ACM ICMR 2021 Real DSR Challenge - Winner
 
 # Honors and Awards
 <ul class="award-list">
-  <li><span>2018</span> National Scholarship.</li>
-  <li><span>2017</span> Heilongjiang Provincial Outstanding Student.</li>
   <li><span>2023</span> Heilongjiang Provincial Outstanding Ph.D. Graduate.</li>
   <li><span>2023</span> HIT Outstanding Ph.D. Graduate.</li>
-  <li><span>2022</span> Tencent Scholarship.</li>
   <li><span>2023</span> HIT Outstanding Ph.D. Thesis Nomination ($10\%$).</li>
+  <li><span>2022</span> Tencent Scholarship.</li>
+  <li><span>2018</span> National Scholarship.</li>
+  <li><span>2017</span> Heilongjiang Provincial Outstanding Student.</li>
 </ul>
 
 <span class='anchor' id='services'></span>
