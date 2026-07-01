@@ -216,12 +216,12 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing, Harbin Institute 
 
 # Honors and Awards
 <ul class="award-list">
-  <li><span>2026.06</span> <strong>2nd Place</strong>, IEEE/CVF PBVS Thermal Image Super-Resolution Challenge, Track 2.</li>
-  <li><span>2025.06</span> <strong>Winner</strong>, IEEE CVPR 2025 PBVS Thermal Image Super-Resolution Challenge, <a href="https://openaccess.thecvf.com/content/CVPR2025W/PBVS/papers/Rivadeneira_Thermal_Image_Super-Resolution_Challenge_Results_-_PBVS_2025_CVPRW_2025_paper.pdf">Track 2-x8 PSNR</a>.</li>
-  <li><span>2024.06</span> <strong>Winner</strong>, IEEE CVPR 2024 PBVS Thermal Image Super-Resolution Challenge, <a href="https://codalab.lisn.upsaclay.fr/competitions/17013">Track 1</a> and <a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Track 2</a>.</li>
-  <li><span>2023.06</span> <strong>Winner</strong>, IEEE CVPR 2023 PBVS Thermal Image Super-Resolution Challenge, <a href="https://codalab.lisn.upsaclay.fr/competitions/9666#results">Track 1 and Track 2</a>.</li>
-  <li><span>2021.12</span> <strong>Winner</strong>, ACM ICMR 2021 Guided Depth Map Super-Resolution <a href="https://icmr21-realdsr-challenge.github.io/">Challenge</a>.</li>
-  <li><span>Selected</span> National Scholarship, Heilongjiang Provincial Outstanding Student, Heilongjiang Provincial Outstanding Ph.D. Graduate, HIT Outstanding Ph.D. Graduate, Tencent Scholarship, HIT Outstanding Ph.D. Thesis Nomination ($10\%$).</li>
+  <li><span>2018</span> National Scholarship.</li>
+  <li><span>2017</span> Heilongjiang Provincial Outstanding Student.</li>
+  <li><span>2023</span> Heilongjiang Provincial Outstanding Ph.D. Graduate.</li>
+  <li><span>2023</span> HIT Outstanding Ph.D. Graduate.</li>
+  <li><span>2022</span> Tencent Scholarship.</li>
+  <li><span>2023</span> HIT Outstanding Ph.D. Thesis Nomination ($10\%$).</li>
 </ul>
 
 <span class='anchor' id='services'></span>
