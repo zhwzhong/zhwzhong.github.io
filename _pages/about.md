@@ -130,72 +130,17 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing, Harbin Institute 
 # Collaborative Publications
 
 <ul class="collaborative-publication-list">
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">IEEE TCSVT</span><span class="collaborative-year">2026</span></div>
-    <h3 class="collaborative-title">Anchor-Induced Serial Tensor Representation for Multi-View Clustering</h3>
-    <p class="collaborative-authors">Hanzhang Wang, Zonglin Liu, <strong>Zhiwei Zhong</strong>, Qiangqiang Shen, Yongsheng Liang, Yongyong Chen</p>
-    <p class="collaborative-publication">IEEE Transactions on Circuits and Systems for Video Technology</p>
-  </li>
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">IEEE TIP</span><span class="collaborative-year">2026</span></div>
-    <h3 class="collaborative-title">Unfolding High-Order Correlations for Interpretable Multi-Contrast MRI Super-Resolution</h3>
-    <p class="collaborative-authors">Qiangqiang Shen, Xuanqi Zhang, Peilin Chen, <strong>Zhiwei Zhong</strong>, Howard Leung, Shiqi Wang</p>
-    <p class="collaborative-publication">IEEE Transactions on Image Processing</p>
-  </li>
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">CVPR</span><span class="collaborative-year">2025</span></div>
-    <h3 class="collaborative-title">Making Old Film Great Again: Degradation-Aware State Space Model for Old Film Restoration</h3>
-    <p class="collaborative-authors">Yudong Mao, Hao Luo, <strong>Zhiwei Zhong</strong>, Peilin Chen, Zhijiang Zhang, Shiqi Wang</p>
-    <p class="collaborative-publication">IEEE/CVF Conference on Computer Vision and Pattern Recognition</p>
-  </li>
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">ICME</span><span class="collaborative-year">2025</span></div>
-    <h3 class="collaborative-title">Exploiting Long and Short Temporal Dependence for Low-Light Video Enhancement</h3>
-    <p class="collaborative-authors">Hao Luo, Lingyu Zhu, Yudong Mao, Yixuan Li, <strong>Zhiwei Zhong</strong>, Shanshe Wang, Shiqi Wang</p>
-    <p class="collaborative-publication">IEEE International Conference on Multimedia and Expo</p>
-  </li>
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">CVPR Workshops</span><span class="collaborative-year">2025</span></div>
-    <h3 class="collaborative-title">Thermal Image Super-Resolution Challenge Results - PBVS 2025</h3>
-    <p class="collaborative-authors">Rafael E. Rivadeneira, Angel D. Sappa, Riad Hammoud, Jiyong Rao, Hang Zhong, Yu Wang, Shengjie Zhao, <strong>Zhiwei Zhong</strong>, Yung-Hui Li, Shiqi Wang, Qiangqiang Shen, Hanzhang Wang, Xuanqi Zhang</p>
-    <p class="collaborative-publication">IEEE/CVF CVPR Workshops · Perception Beyond the Visible Spectrum (PBVS)</p>
-  </li>
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">CVPR Workshops</span><span class="collaborative-year">2024</span></div>
-    <h3 class="collaborative-title">Thermal Image Super-Resolution Challenge Results - PBVS 2024</h3>
-    <p class="collaborative-authors">Rafael E. Rivadeneira, Angel D. Sappa, Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Peilin Chen, Shiqi Wang</p>
-    <p class="collaborative-publication">IEEE/CVF CVPR Workshops · Perception Beyond the Visible Spectrum (PBVS)</p>
-  </li>
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">CVPR</span><span class="collaborative-year">2023</span></div>
-    <h3 class="collaborative-title">Spatial-Frequency Mutual Learning for Face Super-Resolution</h3>
-    <p class="collaborative-authors">Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Xianming Liu</p>
-    <p class="collaborative-publication">IEEE/CVF Conference on Computer Vision and Pattern Recognition</p>
-  </li>
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">IEEE T-BIOM</span><span class="collaborative-year">2023</span></div>
-    <h3 class="collaborative-title">Super-Resolving Face Image by Facial Parsing Information</h3>
-    <p class="collaborative-authors">Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Deming Zhai, Xianming Liu</p>
-    <p class="collaborative-publication">IEEE Transactions on Biometrics, Behavior, and Identity Science</p>
-  </li>
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">CVPR Workshops</span><span class="collaborative-year">2023</span></div>
-    <h3 class="collaborative-title">Thermal Image Super-Resolution Challenge Results - PBVS 2023</h3>
-    <p class="collaborative-authors">Rafael E. Rivadeneira, Angel D. Sappa, Boris X. Vintimilla, Chenyang Wang, Junjun Jiang, Xianming Liu, <strong>Zhiwei Zhong</strong>, Dai Bin, Li Ruodi, Li Shengye</p>
-    <p class="collaborative-publication">IEEE/CVF CVPR Workshops · Perception Beyond the Visible Spectrum (PBVS)</p>
-  </li>
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">IEEE TCSVT</span><span class="collaborative-year">2022</span></div>
-    <h3 class="collaborative-title">Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution</h3>
-    <p class="collaborative-authors">Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Xianming Liu</p>
-    <p class="collaborative-publication">IEEE Transactions on Circuits and Systems for Video Technology</p>
-  </li>
-  <li class="collaborative-paper">
-    <div class="collaborative-paper-header"><span class="collaborative-venue">CVPR Workshops</span><span class="collaborative-year">2022</span></div>
-    <h3 class="collaborative-title">Thermal Image Super-Resolution Challenge Results - PBVS 2022</h3>
-    <p class="collaborative-authors">Rafael E. Rivadeneira, Angel D. Sappa, Boris X. Vintimilla, Jin Kim, Dogun Kim, Zhihao Li, Yingchun Jian, Bo Yan, Leilei Cao, Fengliang Qi, Hongbin Wang, Rongyuan Wu, Lingchen Sun, Yongqiang Zhao, Lin Li, Kai Wang, Yicheng Wang, Xuanming Zhang, Huiyuan Wei, Chonghua Lv, Qigong Sun, Xiaolin Tian, Zhuang Jia, Jiakui Hu, Chenyang Wang, <strong>Zhiwei Zhong</strong>, Xianming Liu, Junjun Jiang</p>
-    <p class="collaborative-publication">IEEE/CVF CVPR Workshops · Perception Beyond the Visible Spectrum (PBVS)</p>
-  </li>
+  <li>Hanzhang Wang, Zonglin Liu, <strong>Zhiwei Zhong</strong>, Qiangqiang Shen, Yongsheng Liang, Yongyong Chen, Anchor-Induced Serial Tensor Representation for Multi-View Clustering, IEEE Transactions on Circuits and Systems for Video Technology 2026.</li>
+  <li>Qiangqiang Shen, Xuanqi Zhang, Peilin Chen, <strong>Zhiwei Zhong</strong>, Howard Leung, Shiqi Wang, Unfolding High-Order Correlations for Interpretable Multi-Contrast MRI Super-Resolution, IEEE Transactions on Image Processing 2026.</li>
+  <li>Yudong Mao, Hao Luo, <strong>Zhiwei Zhong</strong>, Peilin Chen, Zhijiang Zhang, Shiqi Wang, Making Old Film Great Again: Degradation-Aware State Space Model for Old Film Restoration, IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025.</li>
+  <li>Hao Luo, Lingyu Zhu, Yudong Mao, Yixuan Li, <strong>Zhiwei Zhong</strong>, Shanshe Wang, Shiqi Wang, Exploiting Long and Short Temporal Dependence for Low-Light Video Enhancement, IEEE International Conference on Multimedia and Expo 2025.</li>
+  <li>Rafael E. Rivadeneira, Angel D. Sappa, Riad Hammoud, Jiyong Rao, Hang Zhong, Yu Wang, Shengjie Zhao, <strong>Zhiwei Zhong</strong>, Yung-Hui Li, Shiqi Wang, Qiangqiang Shen, Hanzhang Wang, Xuanqi Zhang, Thermal Image Super-Resolution Challenge Results - PBVS 2025, IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops 2025.</li>
+  <li>Rafael E. Rivadeneira, Angel D. Sappa, Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Peilin Chen, Shiqi Wang, Thermal Image Super-Resolution Challenge Results - PBVS 2024, IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops 2024.</li>
+  <li>Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Xianming Liu, Spatial-Frequency Mutual Learning for Face Super-Resolution, IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023.</li>
+  <li>Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Deming Zhai, Xianming Liu, Super-Resolving Face Image by Facial Parsing Information, IEEE Transactions on Biometrics, Behavior, and Identity Science 2023.</li>
+  <li>Rafael E. Rivadeneira, Angel D. Sappa, Boris X. Vintimilla, Chenyang Wang, Junjun Jiang, Xianming Liu, <strong>Zhiwei Zhong</strong>, Dai Bin, Li Ruodi, Li Shengye, Thermal Image Super-Resolution Challenge Results - PBVS 2023, IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops 2023.</li>
+  <li>Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Xianming Liu, Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution, IEEE Transactions on Circuits and Systems for Video Technology 2022.</li>
+  <li>Rafael E. Rivadeneira, Angel D. Sappa, Boris X. Vintimilla, Jin Kim, Dogun Kim, Zhihao Li, Yingchun Jian, Bo Yan, Leilei Cao, Fengliang Qi, Hongbin Wang, Rongyuan Wu, Lingchen Sun, Yongqiang Zhao, Lin Li, Kai Wang, Yicheng Wang, Xuanming Zhang, Huiyuan Wei, Chonghua Lv, Qigong Sun, Xiaolin Tian, Zhuang Jia, Jiakui Hu, Chenyang Wang, <strong>Zhiwei Zhong</strong>, Xianming Liu, Junjun Jiang, Thermal Image Super-Resolution Challenge Results - PBVS 2022, IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops 2022.</li>
 </ul>
 
 <span class='anchor' id='competitions'></span>

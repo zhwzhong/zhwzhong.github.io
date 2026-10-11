@@ -225,16 +225,16 @@
     padding: 1em;
 
     .paper-box-image > div {
-        max-width: 260px;
+        max-width: 130px;
     }
 
     @include breakpoint($medium) {
-        .paper-box-image { flex: 0 0 28%; }
+        .paper-box-image { flex: 0 0 14%; }
         .paper-box-text { flex: 1 1 0; }
     }
 
     @include breakpoint(max-width $small) {
-        .paper-box-image > div { max-width: 220px; }
+        .paper-box-image > div { max-width: 110px; }
     }
 }
 
@@ -325,71 +325,17 @@ h1:before, .anchor:before {
     }
 }
 
-/* Text-only collaborative publications. */
+/* Citation-style collaborative publications. */
 .collaborative-publication-list {
-    list-style: none;
-    padding: 0;
-    margin: 1.2em 0 1.8em;
-    display: grid;
-    gap: .85em;
+    margin: 1em 0 1.8em;
+    padding-left: 1.2em;
+    color: #344054;
+    font-size: .92em;
+    line-height: 1.7;
 }
-.collaborative-publication-list > .collaborative-paper {
-    margin: 0;
-    padding: 1.15em 1.3em;
-    border: 1px solid #dfe7f3;
-    border-left: 3px solid #4c78a8;
-    border-radius: 8px;
-    background: #fff;
-    box-shadow: 0 3px 12px rgba(17, 24, 39, .035);
-}
-.collaborative-paper-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: .8em;
-    margin-bottom: .7em;
-}
-.collaborative-venue {
-    display: inline-block;
-    padding: .22em .65em;
-    border-radius: 5px;
-    background: #edf3fa;
-    color: #1f4f82;
-    font-size: .75em;
-    font-weight: 700;
-    line-height: 1.5;
-}
-.collaborative-year {
-    color: #667085;
-    font-size: .8em;
-    font-weight: 600;
-    flex-shrink: 0;
-    font-variant-numeric: tabular-nums;
-}
-.collaborative-paper .collaborative-title {
-    margin: 0 0 .5em;
-    padding: 0;
-    border: 0;
-    color: #172033;
-    font-size: 1em;
-    font-weight: 700;
-    line-height: 1.45;
-}
-.collaborative-paper .collaborative-authors {
-    margin: 0 0 .7em;
-    color: #475467;
-    font-size: .86em;
-    line-height: 1.65;
+.collaborative-publication-list > li {
+    margin-bottom: .9em;
+    padding-left: .15em;
     overflow-wrap: anywhere;
 }
-.collaborative-authors strong { color: #243b53; }
-.collaborative-paper .collaborative-publication {
-    margin: 0;
-    color: #667085;
-    font-size: .76em;
-    line-height: 1.5;
-}
-@media (max-width: 600px) {
-    .collaborative-publication-list > .collaborative-paper { padding: 1em; }
-    .collaborative-paper .collaborative-title { font-size: .95em; }
-}
+.collaborative-publication-list strong { color: #172033; }
