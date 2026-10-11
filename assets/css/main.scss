@@ -221,8 +221,20 @@
     border-color: #d7c48a;
     background: #fffdf7;
 
+    gap: .9em;
+    padding: 1em;
+
     .paper-box-image > div {
-        max-width: 460px;
+        max-width: 260px;
+    }
+
+    @include breakpoint($medium) {
+        .paper-box-image { flex: 0 0 28%; }
+        .paper-box-text { flex: 1 1 0; }
+    }
+
+    @include breakpoint(max-width $small) {
+        .paper-box-image > div { max-width: 220px; }
     }
 }
 
