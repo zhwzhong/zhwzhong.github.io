@@ -327,15 +327,40 @@ h1:before, .anchor:before {
 
 /* Citation-style collaborative publications. */
 .collaborative-publication-list {
-    margin: 1em 0 1.8em;
-    padding-left: 1.2em;
-    color: #344054;
-    font-size: .92em;
-    line-height: 1.7;
+    list-style: none;
+    counter-reset: collaboration;
+    margin: .8em 0 2em;
+    padding: 0;
+    color: #475467;
+    font-size: .9em;
+    line-height: 1.8;
 }
 .collaborative-publication-list > li {
-    margin-bottom: .9em;
-    padding-left: .15em;
-    overflow-wrap: anywhere;
+    counter-increment: collaboration;
+    position: relative;
+    margin: 0;
+    padding: 1.1em .2em 1.1em 2.7em;
+    border-bottom: 1px solid #e8edf2;
+    overflow-wrap: break-word;
 }
-.collaborative-publication-list strong { color: #172033; }
+.collaborative-publication-list > li:first-child { padding-top: .55em; }
+.collaborative-publication-list > li:last-child { border-bottom: 0; }
+.collaborative-publication-list > li::before {
+    content: counter(collaboration, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: 1.35em;
+    color: #94a3b8;
+    font-size: .8em;
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: .03em;
+}
+.collaborative-publication-list > li:first-child::before { top: .65em; }
+.collaborative-publication-list strong { color: #243b53; font-weight: 700; }
+.collaborative-publication-list .citation-title { color: #172033; }
+.collaborative-publication-list .citation-venue { color: #667085; font-style: italic; }
+@media (max-width: 600px) {
+    .collaborative-publication-list { font-size: .88em; line-height: 1.75; }
+    .collaborative-publication-list > li { padding-left: 2.2em; }
+}
