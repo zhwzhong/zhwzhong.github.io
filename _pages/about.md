@@ -296,7 +296,8 @@ ACM ICMR 2021 Real DSR Challenge - Winner
 
 # Professional Services
 <ul class="service-list">
-  <li><strong>Reviewer</strong> for IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TCSVT, IEEE TETCI, ISPRS Journal of Photogrammetry and Remote Sensing, Pattern Recognition, Knowledge-Based Systems, CVPR, ICCV, ECCV, NeurIPS, ACM MM, and AAAI.</li>
+  <li><strong>Journal Reviewer:</strong> IJCV, TPAMI, TIP, TMM, TCSVT, TETCI, ISPRS JPRS, PR, KBS.</li>
+  <li><strong>Conference Reviewer:</strong> CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, ACM MM, AAAI.</li>
 </ul>
 
 <span class='anchor' id='experience'></span>
