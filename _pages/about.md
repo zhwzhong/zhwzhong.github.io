@@ -26,6 +26,7 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing, Harbin Institute 
 
 <div class="profile-links">
   <a href="#publications">Selected Publications</a>
+  <a href="#collaborative-publications">Collaborative Publications</a>
   <a href="#competitions">Competitions</a>
   <a href="#honors">Honors</a>
   <a href="#services">Services</a>
@@ -124,6 +125,57 @@ Zhiwei Zhong received his Ph.D. from the Faculty of Computing, Harbin Institute 
 </div>
 </div>
 
+<span class='anchor' id='collaborative-publications'></span>
+
+# Collaborative Publications
+
+<ul class="collaborative-publication-list">
+  <li>
+    <p><strong>Anchor-Induced Serial Tensor Representation for Multi-View Clustering</strong></p>
+    <p class="pub-meta">Hanzhang Wang, Zonglin Liu, <strong>Zhiwei Zhong</strong>, Qiangqiang Shen, Yongsheng Liang, Yongyong Chen</p>
+  </li>
+  <li>
+    <p><strong>Unfolding High-Order Correlations for Interpretable Multi-Contrast MRI Super-Resolution</strong></p>
+    <p class="pub-meta">Qiangqiang Shen, Xuanqi Zhang, Peilin Chen, <strong>Zhiwei Zhong</strong>, Howard Leung, Shiqi Wang</p>
+  </li>
+  <li>
+    <p><strong>Making Old Film Great Again: Degradation-Aware State Space Model for Old Film Restoration</strong></p>
+    <p class="pub-meta">Yudong Mao, Hao Luo, <strong>Zhiwei Zhong</strong>, Peilin Chen, Zhijiang Zhang, Shiqi Wang</p>
+  </li>
+  <li>
+    <p><strong>Exploiting Long and Short Temporal Dependence for Low-Light Video Enhancement</strong></p>
+    <p class="pub-meta">Hao Luo, Lingyu Zhu, Yudong Mao, Yixuan Li, <strong>Zhiwei Zhong</strong>, Shanshe Wang, Shiqi Wang</p>
+  </li>
+  <li>
+    <p><strong>Thermal Image Super-Resolution Challenge Results - PBVS 2025</strong></p>
+    <p class="pub-meta">Rafael E. Rivadeneira, Angel D. Sappa, Riad Hammoud, Jiyong Rao, Hang Zhong, Yu Wang, Shengjie Zhao, <strong>Zhiwei Zhong</strong>, Yung-Hui Li, Shiqi Wang, Qiangqiang Shen, Hanzhang Wang, Xuanqi Zhang</p>
+  </li>
+  <li>
+    <p><strong>Thermal Image Super-Resolution Challenge Results - PBVS 2024</strong></p>
+    <p class="pub-meta">Rafael E. Rivadeneira, Angel D. Sappa, Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Peilin Chen, Shiqi Wang</p>
+  </li>
+  <li>
+    <p><strong>Spatial-Frequency Mutual Learning for Face Super-Resolution</strong></p>
+    <p class="pub-meta">Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Xianming Liu</p>
+  </li>
+  <li>
+    <p><strong>Super-Resolving Face Image by Facial Parsing Information</strong></p>
+    <p class="pub-meta">Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Deming Zhai, Xianming Liu</p>
+  </li>
+  <li>
+    <p><strong>Thermal Image Super-Resolution Challenge Results - PBVS 2023</strong></p>
+    <p class="pub-meta">Rafael E. Rivadeneira, Angel D. Sappa, Boris X. Vintimilla, Chenyang Wang, Junjun Jiang, Xianming Liu, <strong>Zhiwei Zhong</strong>, Dai Bin, Li Ruodi, Li Shengye</p>
+  </li>
+  <li>
+    <p><strong>Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution</strong></p>
+    <p class="pub-meta">Chenyang Wang, Junjun Jiang, <strong>Zhiwei Zhong</strong>, Xianming Liu</p>
+  </li>
+  <li>
+    <p><strong>Thermal Image Super-Resolution Challenge Results - PBVS 2022</strong></p>
+    <p class="pub-meta">Rafael E. Rivadeneira, Angel D. Sappa, Boris X. Vintimilla, Jin Kim, Dogun Kim, Zhihao Li, Yingchun Jian, Bo Yan, Leilei Cao, Fengliang Qi, Hongbin Wang, Rongyuan Wu, Lingchen Sun, Yongqiang Zhao, Lin Li, Kai Wang, Yicheng Wang, Xuanming Zhang, Huiyuan Wei, Chonghua Lv, Qigong Sun, Xiaolin Tian, Zhuang Jia, Jiakui Hu, Chenyang Wang, <strong>Zhiwei Zhong</strong>, Xianming Liu, Junjun Jiang</p>
+  </li>
+</ul>
+
 <span class='anchor' id='competitions'></span>
 
 # Selected Competitions
@@ -209,6 +261,7 @@ ACM ICMR 2021 Real DSR Challenge - Winner
 
 # Honors and Awards
 <ul class="award-list">
+  <li><span>2026</span> <strong>Top Reviewer</strong>, NeurIPS 2026.</li>
   <li><span>2023</span> Heilongjiang Provincial Outstanding Ph.D. Graduate.</li>
   <li><span>2023</span> HIT Outstanding Ph.D. Graduate.</li>
   <li><span>2023</span> HIT Outstanding Ph.D. Thesis Nomination (Top 10%).</li>
